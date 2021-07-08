@@ -2,7 +2,7 @@
 
 ---
 
-[Foto](https://github.com/agentfreedom/rsschool-cv/img/insta-ava.jpg)
+[Oleksandr Avdasov image](https://agentfreedom.github.io/rsschool-cv/img/insta-ava.jpg)
 
 # Oleksandr Avdasov
 
@@ -12,7 +12,7 @@
 
 - T: +380957519026
 - E: agentfreedom@zoho.com
-- Li: https://www.linkedin.com/in/oleksandr-avdasov/
+- Li: [Linkedin](https://www.linkedin.com/in/oleksandr-avdasov/)
 
 ---
 
@@ -105,3 +105,18 @@ _August 1998 - to date_ | *Ukraine*
 - Seller
 - Warehouse Manager
 - Loader
+---
+
+### Language
+
+- English - A1 (Beginner)
+- Ukrainian - C1 (Advanced)
+- Russian - C1 (Advanced)
+
+---
+
+## Copyright
+
+[Copyright image](https://agentfreedom.github.io/rsschool-cv/img/copyright.png) *Oleksandr Avdasov - Junior Front-End Developer from Kyiv*
+
+---
