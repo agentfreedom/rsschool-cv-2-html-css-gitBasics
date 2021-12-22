@@ -1,0 +1,1 @@
+https://agentfreedom.github.io/rsschool-cv/
