@@ -1,1 +1,1 @@
-https://agentfreedom.github.io/rsschool-cv/cv
+https://agentfreedom.github.io/rsschool-cv/
